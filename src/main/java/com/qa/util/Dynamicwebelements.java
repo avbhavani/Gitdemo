@@ -7,4 +7,9 @@ public class Dynamicwebelements {
 	{
 System.out.println("Dynamicelements");
 }
+		public void Dyna()
+	{
+System.out.println("Dyna");
+}
+	
 }
